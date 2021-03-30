@@ -85,7 +85,7 @@ nav {
 	color: #fff;
 	margin: 0;
 	font-family: 'Josefin Sans', sans-serif;
-	font-size: 28px;
+	font-size: 21px;
 	font-weight: bold;
 }
 
@@ -140,6 +140,12 @@ nav {
 	font-family: 'Josefin Sans', sans-serif;
 	font-weight: bold;
 	cursor: pointer;
+}
+
+#book-btn:hover {
+	transition: 1s ease;
+	background-color: #fff;
+	color: #599dd9;
 }
 
 /*Footer*/
