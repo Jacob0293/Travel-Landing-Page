@@ -148,6 +148,13 @@ nav {
 	color: #599dd9;
 }
 
+
+/*Booking Form*/
+
+#booking-form {
+	display: none;
+}
+
 /*Footer*/
 
 footer {
